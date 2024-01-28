@@ -1,6 +1,4 @@
-=================================
-======= Simple Calculator =======
-=================================
+Simple Calculator
 
 Objective: This calculator was created to do basic arithmetic operations between two numbers.
 
